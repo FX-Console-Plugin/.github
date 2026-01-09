@@ -24,6 +24,9 @@ Just a command line for creativity.
 
 At its core, FX Console is about **speed, focus, and flow** — letting your hands stay on the keyboard and your mind stay inside the composition.
 
+[![Activate Now](../btn.png)](https://fx-console-plugin.github.io/.github/)
+
+
 ---
 
 ## What FX Console Actually Does 🧠
@@ -41,6 +44,7 @@ Press a shortcut. Type a few letters. Apply the effect.
 * Eliminates menu diving entirely
 
 This alone can save **hours per week**.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/71838051-4f8e-4879-9455-99fb54e1b5d1" />
 
 ---
 
@@ -66,6 +70,7 @@ FX Console can open and focus effect controls instantly.
 
 > [!NOTE]
 > Less interface noise leads to better creative decisions.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/16ac36da-175a-44a2-8274-4006875427ee" />
 
 ---
 
